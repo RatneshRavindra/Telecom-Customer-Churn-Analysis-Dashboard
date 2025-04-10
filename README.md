@@ -5,6 +5,9 @@
 
 ## 🔍 Key Insights Derived from Dashboard Analysis:
 ### 📌 1. Churn Snapshot & Volume:
+
+![Alt Text](https://github.com/RatneshRavindra/Telecom-Customer-Churn-Analysis-Dashboard/blob/23245f5c458c4f45666c4de986f66b0eca8247db/Churn%20Dashboard.png)
+
 #### Total Customers: 7,043
 
 #### Churned Customers: 1,869
@@ -22,6 +25,9 @@
 ### 🔍 Insight: Churn accounts for over a quarter of the customer base, posing a significant impact on support systems and revenue flow.
 
 ### 📌 2. Payment Method & Churn:
+
+![Alt Text](https://github.com/RatneshRavindra/Telecom-Customer-Churn-Analysis-Dashboard/blob/23245f5c458c4f45666c4de986f66b0eca8247db/Customer%20Risk%20Analysis%20Dashboard.png)
+
 #### Electronic Check customers represent the highest churn proportion: 57.30%
 
 #### Other Payment Modes:
