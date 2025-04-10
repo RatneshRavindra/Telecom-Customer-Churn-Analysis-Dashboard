@@ -32,7 +32,7 @@
 
 #### Credit Card (Auto): 12.41%
 
-## ✅ Recommendation: Promote auto-payment methods like bank transfers or credit cards to lower churn risk.
+### ✅ Recommendation: Promote auto-payment methods like bank transfers or credit cards to lower churn risk.
 
 ### 📌 3. Internet Service Type Analysis:
 #### Fiber Optic Users:
@@ -47,7 +47,7 @@
 
 ### 🔍 Insight: Although Fiber Optic customers drive the majority of monthly revenue (~$283.28K), they are also the most likely to churn, indicating dissatisfaction or competition in the high-speed internet segment.
 
-###📌 4. Contract Type & Churn Behavior:
+### 📌 4. Contract Type & Churn Behavior:
 #### Month-to-Month Contracts:
 
 #### Represent 88.55% of churned users
@@ -69,7 +69,7 @@
 #### 3–4 years: 7.81%
 #### 5+ years: <6%
 
-## 🔍 Insight: First-year experience is critical. Enhanced onboarding and proactive support can reduce early churn.
+### 🔍 Insight: First-year experience is critical. Enhanced onboarding and proactive support can reduce early churn.
 
 ### 📌 6. Feature & Service Correlations:
 #### Churn Distribution by Features:
@@ -80,9 +80,9 @@
 #### 29.16% used Device Protection
 #### 16.59% used Tech Support
 
-### 🔍 Insight: Entertainment-related services are common among churned users. Evaluate pricing/value proposition of these services to improve satisfaction.
+## 🔍 Insight: Entertainment-related services are common among churned users. Evaluate pricing/value proposition of these services to improve satisfaction.
 
-### ✅ Business Impact & Value Delivered:
+## ✅ Business Impact & Value Delivered:
 #### Identified early churn indicators based on contract type, tenure, and payment behavior
 
 #### Enabled targeted retention strategies for Fiber Optic users
